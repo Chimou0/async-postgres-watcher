@@ -1,5 +1,12 @@
 # Semantic Versioning Changelog
 
+# [1.3.0](https://github.com/officialpycasbin/async-postgres-watcher/compare/v1.2.0...v1.3.0) (2025-08-15)
+
+
+### Features
+
+* switch from casbin to pycasbin ([8bc75bc](https://github.com/officialpycasbin/async-postgres-watcher/commit/8bc75bcef722828804046447081a5bc88942157a))
+
 # [1.2.0](https://github.com/officialpycasbin/async-postgres-watcher/compare/v1.1.0...v1.2.0) (2024-11-12)
 
 
